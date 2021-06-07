@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Game Suit</string>
+    <string name="text_com">COM</string>
+    <string name="text_player">Player 1</string>
+</resources>
